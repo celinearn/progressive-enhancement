@@ -1,0 +1,38 @@
+body {
+	font-family: serif;
+	font-size: 16px;
+	color: #222325;
+	max-width: 90%;
+	margin-left: 20%;
+	margin-right: 20%;
+	background: -webkit-linear-gradient(90deg, rgb(180, 195, 101), rgb(152, 219, 172));
+	background: linear-gradient(90deg, rgb(180, 195, 101), rgb(152, 219, 172));
+}
+
+h1 {
+	background-color: yellow;
+}
+
+a {
+	color:#0B3DA2;
+}
+
+a:hover {
+	color:#092D76;
+}
+
+a:visited {
+	color:#1455D9;
+}
+
+blockquote {
+	margin-left: 20%;
+	margin-right: 20%;
+	font-size: 26px;
+	background-color: grey;
+	border-left: 3px solid black;
+	padding-left: 30px;
+	padding-top: 80px;
+	padding-bottom: 80px;
+	font-style: italic;
+}
